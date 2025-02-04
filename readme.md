@@ -45,10 +45,6 @@ register();
 ```
 🐞 Laporan Bug
 
-Laporkan bug di Issues.
-
-📄 Lisensi
-
-MIT License
+Laporkan bug di [Issues](https://github.com/FlowFalcon/flowfalcon-security/issues).
 
 ---
