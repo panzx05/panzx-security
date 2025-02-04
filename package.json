@@ -1,0 +1,21 @@
+"name": "flowfalcon-security",
+  "version": "1.0.0",
+  "description": "Security package for bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "FlowFalcon",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlowFalcon/flowfalcon-security.git"
+  },
+  "keywords": [
+    "FlowFalcon"
+  ],
+  "bugs": {
+    "url": "https://github.com/FlowFalcon/flowfalcon-security/issues"
+  },
+  "homepage": "https://github.com/FlowFalcon/flowfalcon-security#readme"
+} 
