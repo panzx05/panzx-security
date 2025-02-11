@@ -1,21 +1,21 @@
-"name": "flowfalcon-security",
+"name": "panzx5-security",
   "version": "1.0.0",
   "description": "Security package for bot",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node index.js"
   },
-  "author": "FlowFalcon",
+  "author": "Panzx",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FlowFalcon/flowfalcon-security.git"
+    "url": "git+https://github.com/panzx05/panzx5-security.git"
   },
   "keywords": [
-    "FlowFalcon"
+    "Panzx"
   ],
   "bugs": {
-    "url": "https://github.com/FlowFalcon/flowfalcon-security/issues"
+    "url": "https://github.com/panzx05/panzx5-security/issues"
   },
-  "homepage": "https://github.com/FlowFalcon/flowfalcon-security#readme"
+  "homepage": "https://github.com/panzx05/panzx5-security#readme"
 } 
